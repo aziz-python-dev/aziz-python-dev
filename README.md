@@ -16,7 +16,7 @@
 
 Освоил уверенно:
 - Python: ООП, функции, модули, обработка исключений
-- Библиотеки: JSON, CSV, Pickle, OS, SYS, Shutil, Pathlib, Random, Turtle, Math, Tkinter
+- Библиотеки: JSON, CSV, Pickle, OS, SYS, Shutil, Pathlib, Random, Tkinter, pytest, sqlite3
 - Инструменты: Git, GitHub, VS Code, командная строка, venv, Pip, PyInstaller
 - Концепции: ОПП, сериализация, модульная архитектура, обработка ошибок, NLP basics
 
